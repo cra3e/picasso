@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/picasso/static/css/main.cceb99d1.css",
+    "main.js": "/picasso/static/js/main.66592e6f.js",
+    "static/media/picasso_logo_horiz-0.png": "/picasso/static/media/picasso_logo_horiz-0.bf8cd198eb145d3f39f8.png",
+    "index.html": "/picasso/index.html",
+    "main.cceb99d1.css.map": "/picasso/static/css/main.cceb99d1.css.map",
+    "main.66592e6f.js.map": "/picasso/static/js/main.66592e6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cceb99d1.css",
+    "static/js/main.66592e6f.js"
+  ]
+}
